@@ -4,3 +4,5 @@
 [assignment_week_5](https://github.com/xnoorrr/assignments/blob/master/Assignment_week_5.ipynb)
 
 [assignment week 6](https://github.com/xnoorrr/assignments/blob/master/assignment4-2.ipynb)
+
+[assignment week 8](https://github.com/xnoorrr/assignments/blob/master/assignment5-2.ipynb)
