@@ -8,3 +8,5 @@
 [assignment week 8](https://github.com/xnoorrr/assignments/blob/master/assignment5-2.ipynb)
 
 [Python Final](https://github.com/xnoorrr/assignments/blob/master/Final_Assignment_Python_1_students(AF).ipynb)
+
+[final R assignment](https://github.com/xnoorrr/assignments/blob/master/OECD_R_exam.ipynb)
